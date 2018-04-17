@@ -8,3 +8,5 @@ A GUI window asks you for a keyword and sample size and analyses the sentiment o
 **An example scatterplot**
 
 ![](figure_2.png)
+
+[Here is the tutorial](https://www.google.com) I wrote on how I coded this.

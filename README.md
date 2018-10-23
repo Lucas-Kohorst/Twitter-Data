@@ -1,6 +1,9 @@
 # Twitter-Data
 A GUI window asks you for a keyword and sample size and analyses the sentiment of tweets about the keyword in a scatterplot. 
 
+# Tutorial
+[Here is the tutorial](https://www.google.com) I wrote on how I coded this.
+
 **The GUI window that displays**
 
 ![](GUI2.png)
@@ -9,4 +12,3 @@ A GUI window asks you for a keyword and sample size and analyses the sentiment o
 
 ![](figure_2.png)
 
-[Here is the tutorial](https://www.google.com) I wrote on how I coded this.
